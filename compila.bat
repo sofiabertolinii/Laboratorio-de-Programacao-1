@@ -1,0 +1,1 @@
+gcc -Wall -o Trab3Slopes Trab3Slopes.c janela.c -lallegro_font -lallegro_color -lallegro_ttf -lallegro_primitives -lallegro
